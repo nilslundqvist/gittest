@@ -1,9 +1,9 @@
 # gittest
 ## intro
-testrepo för git-kursen hos nexer
+testrepot för git-kursen hos nexer testestetst
 
 ## body
-Det är alltid svårt att lista ut vad man ska skriva för att fylla utrymme. Man vill ju inte vara tråkig och köra på lorem ipsum liksom, lite mer kreativ får man vara. Med den inställningen blir det dock bara en rant om att man inte kan lista ut vad man ska skriva.
+Det är alltid väldigt svårt att lista ut vad man ska skriva för att fylla utrymmet. Man vill ju inte vara tråkig och köra lorem ipsum liksom, lite mer kreativ bör man vara. Med den inställningen blir det dock bara en rant om att man inte kan lista ut vad man ska skriva.
 
 # Sample Mermaid diagrams, for more details:
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
